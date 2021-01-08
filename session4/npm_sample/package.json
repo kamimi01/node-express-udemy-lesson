@@ -1,0 +1,12 @@
+{
+  "name": "@kamimi01/test_20200108",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mika Urakawa",
+  "license": "MIT",
+  "private": false
+}
