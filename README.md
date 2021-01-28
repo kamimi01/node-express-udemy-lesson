@@ -7,3 +7,6 @@
 
 - gulpは4.x系から仕様が変更した
   - [gulp3→4の変更点に気をつけよう](https://qiita.com/tatsuo-iriyama/items/08ba4bd621b7fdedcc4e)
+
+- 以下の学習はスキップ
+  - セクション９：データベース連携の「51.MongoDBのバックアップ/リストア」
